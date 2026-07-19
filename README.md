@@ -8,12 +8,14 @@
 ## 当前资料
 
 - [BP：仿生昆虫飞行器（PDF）](bp/bp_v3.pdf)
+- [项目展示视频（MP4，约 96 MB）](media/project-demo.mp4)
+- [项目展示视频二维码（PNG）](media/project-demo-qr.png)
 
 ## 计划整理
 
 - `bp/`：商业计划书与项目介绍
 - `foldout/`：展示折页与海报
-- `media/`：视频合集与观看链接
+- `media/`：项目展示视频、二维码与观看链接
 - `docs/`：课程、结构说明与公开技术资料
 
 ## 使用说明
