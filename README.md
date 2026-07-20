@@ -8,6 +8,8 @@
 ## 当前资料
 
 - [BP：仿生昆虫飞行器（PDF）](bp/bp_v3.pdf)
+- [项目展示折页（PDF）](foldout/butterfly-project-foldout.pdf)
+- [全域光场智能仿生蝴蝶技术海报（PNG）](docs/full-field-light-field-bionic-butterfly.png)
 - [项目展示视频（MP4，约 96 MB）](media/project-demo.mp4)
 - [项目展示视频二维码（PNG）](media/project-demo-qr.png)
 
